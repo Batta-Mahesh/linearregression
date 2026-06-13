@@ -4,8 +4,7 @@ import streamlit as st
 import pandas as pd
 
 
-st.set_page_config(page_title="sales predisction", page_icon=":chart_with_upwards_trend:",layout="wide")
-st.title("sales predisction")
+st.set_page_config(page_title="Sales Prediction", page_icon=":chart_with_upwards_trend:", layout="wide")
 
 st.title("Sales Prediction App")
 st.write("Enter the details of TV, Radio, and Newspaper advertising budgets to predict sales.")
